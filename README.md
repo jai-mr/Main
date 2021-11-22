@@ -6,13 +6,10 @@
 
 ## Problem Statement
 Train a ResNet18 model on CIFAR10 dataset for 20 epochs
-
-
 ### Main Repository
 * https://github.com/jai-mr/Main
 ### Assignment Repository 
-* https://github.com/jai-mr/Assignments/tree/main/Assignment-8
-
+* To be used in all subsequent assignments
 
 ```text
 ├── main.py
